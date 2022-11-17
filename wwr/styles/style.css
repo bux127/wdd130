@@ -197,6 +197,7 @@ nav {
     grid-column: 2/3;
     grid-row: 1/2;
     margin-top: 100px;
+    height: 150px;
 }
 
 #hero-msg h4 {
