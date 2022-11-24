@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker:ital@1&family=Mali:ital,wght@1,500&display=swap');
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav a {
+    text-align: center;
+    color: blueviolet;
+    text-decoration: none;
+    font-family: 'mali', Times, serif;
+    padding: 35px;
+}
+
+body {
+    background-color: #17E9E0;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    display: grid;
+}
+
+header {
+    background-color: #2E9CCA;
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+
+nav a:hover {
+    background-color: #1734FB;
+    color: rgb(238, 255, 0);
+}
+
+.msg {
+    background-color: #43E69C;
+    line-height: 1.5em;
+    padding: 35px;
+}
+
+footer {
+    background-color: #B3226F;
+    color: aliceblue;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer p a {
+    color: antiquewhite;
+}
+
+.msg-title {
+    color: #25274D;
+    font-family: permanent marker, monospace, sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+    text-align: center;
+}
+
+h4 {
+    color: #1734FB;
+    font-family: fuzzy bubbles, monospace, sans-serif;
+}
+
+.msg2-title {
+    color: #1734FB;
+    font-family: 'raleway', Times, serif;
+    text-align: center;
+}
+
+p {
+    color: blueviolet;
+    font-family: 'mali', Times, serif;
+    font-size: .8em;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+footer a:hover {
+    color: yellowgreen;
+}
+
+.icon {
+    width: 80px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+
+#logo {
+    width: 80px;
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
+
+#first-img {
+    width: 50%;
+    border: 2px solid grey;
+    display: block;
+    transform: translate(50%);
+    margin-top: 10px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer p {
+    font-size: 1.2em;
+    font-family: 'raleway', Times, serif;
+    color: #39c700;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
+
+footer .social img {
+    padding-top: 15px;
+}
+
+footer {
+    margin-top: 30px;
+}
+
+main section img {
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    justify-self: center;
+    justify-content: space-around;
+}
+
+#first-msg {
+    color: #3500D3;
+}
+
+p:hover {
+    opacity: .6;
+    color: black;
+}
+
+#first1-img {
+    width: 50%;
+    border: 2px solid #3500D3;
+    display: block;
+    transform: translate(50%);
+}
+
+.home-title:hover {
+    color: #25274D;
+}
